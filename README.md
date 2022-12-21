@@ -1,5 +1,5 @@
 # Online_Book_Reader
-### Cpp console project, practicing some OOP concepts
+### Java console project, practicing some OOP concepts
 
 # Functional Requirements
 - In this system, there are 2 users who could login/sign up
@@ -12,7 +12,7 @@
 - The admin users are already added to the memory (database)
 - So no sign up for the admins
 - There are initially some books (but admin can add books)
-- Avoid spaces in the inputs. In general, assume the user is behaving properly
+- In general, assume the user is behaving properly
 
 # Screan Shots
 ![1](https://user-images.githubusercontent.com/92885872/181072210-c74ad81b-1d21-40eb-9dfc-60d9fe258490.png)
@@ -23,6 +23,4 @@
 
 ![4](https://user-images.githubusercontent.com/92885872/181072279-bf9439b3-4ec8-4409-956d-b3c28359d292.png)
 
-# Acknowledgements
-- [Dr. Mostafa Saad](https://www.udemy.com/course/cpp-4skills/).
 
